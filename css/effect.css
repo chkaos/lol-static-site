@@ -1,0 +1,390 @@
+/* icon */
+.comm-icon-search {
+    background-position: -381px -39px;
+    width: 23px;
+    height: 24px;
+}
+
+.comm-icon-phone {
+    background-position: -357px -84px;
+    width: 16px;
+    height: 24px;
+}
+
+.more-arrow {
+    background-position: -301px -96px;
+    width: 15px;
+    height: 9px;
+}
+
+.head-userinfo-avatar>span {
+    background-position: -304px -84px;
+    width: 48px;
+    height: 48px;
+}
+
+.icon-new {
+    background-position: -376px -113px;
+    width: 14px;
+    height: 14px;
+}
+
+.icon-hot {
+    background-position: -357px -113px;
+    width: 14px;
+    height: 14px;
+}
+
+.icon-xx-1{
+    background-position: -378px -84px;
+    width:18px;
+    height:18px;
+
+}
+
+.icon-wxbd {
+    background-position: -231px -12px;
+    width: 28px;
+    height: 24px;
+}
+
+.icon-new-1 {
+    background-position: -247px -46px;
+    width: 29px;
+    height: 14px;
+}
+
+.icon-yz {
+    background-position: -319px -71px;
+    width: 23px;
+    height: 17px;
+}
+
+.icon-wjsq {
+    background-position: -375px -12px;
+    width: 18px;
+    height: 18px;
+}
+
+.icon-xgzd {
+    background-position: -264px -12px;
+    width: 22px;
+    height: 23px;
+}
+
+.icon-yxzl {
+    background-position: -218px -71px;
+    width: 20px;
+    height: 20px;
+}
+
+.icon-fhcx {
+    background-position: -193px -71px;
+    width: 20px;
+    height: 20px;
+}
+
+.icon-kh {
+    background-position: -318px -12px;
+    width: 25px;
+    height: 19px;
+}
+
+.foot-ieg-logo {
+    background-position: -216px 0;
+    width: 189px;
+    height: 34px;
+    margin: 0 24px 0 8px;
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.logo-riot {
+    background-position: -216px -84px;
+    width: 83px;
+    height: 56px;
+    display: inline-block;
+    vertical-align: middle;
+    margin: 0 24px 0 8px;
+}
+
+
+.comm-head .icon-hot, .comm-head .icon-new {
+    display: inline-block;
+    vertical-align: middle;
+    zoom: 1;
+    width: 14px;
+    height: 14px;
+    margin: -2px 2px 0 0;
+}
+
+.inline-icon-1 {
+    background-position: -484px -226px;
+    width: 17px;
+    height: 17px;
+}
+
+.inline-icon-0-right {
+    background-position: -506px -226px;
+    width: 20px;
+    height: 9px;
+}
+
+.inline-icon-0-left {
+    background-position: -531px -226px;
+    width: 20px;
+    height: 9px;
+}
+
+.icon-666 {
+    background-position: -456px -226px;
+    width: 23px;
+    height: 17px;
+}
+
+ .foot-ieg-logo, .logo-riot, .act-link, .comm-avatar-border, .comm-icon-phone, .comm-icon-search, .head-app-hover, .head-userinfo-avatar>span, .icon-dsj, .icon-hot, .icon-new, .icon-xx-1, .logined-top .select-area:after, .logo-riot, .logo-tencentgame, .top-act-link, .topfoot-spr, .zm-hover-bg {
+    background-image: url(../img/topfoot-spr.png);
+    background-size: 405px 178px;
+    background-repeat: no-repeat;
+}
+
+.act-item>.innerhover-border .hover-border-1, .comm-spr, .hover-border-1, .icon-arrow-2, .icon-fanart, .icon-fanart-on, .icon-fhcx, .icon-gift, .icon-home, .icon-hot-1, .icon-hotact, .icon-hotact-on, .icon-kh, .icon-new-1, .icon-polo, .icon-rp, .icon-spzx, .icon-spzx-on, .icon-sszx, .icon-sszx-on, .icon-wjsq, .icon-wxbd, .icon-xgzd, .icon-yxtj, .icon-yxtj-on, .icon-yxzl, .icon-yz, .icon-zhiyin, .more-arrow, .more-arrow-1, .more-arrow-2, .more-arrow-3, .part-tab-title>li:after, .rn-fanart i, .rn-fanart.selected i, .rn-fanart:hover i, .rn-polo i, .rn-rmhd i, .rn-rmhd.selected i, .rn-rmhd:hover i, .rn-spzx i, .rn-spzx.selected i, .rn-spzx:hover i, .rn-sszx i, .rn-sszx.selected i, .rn-sszx:hover i, .rn-yxtj i, .rn-yxtj.selected i, .rn-yxtj:hover i, .spage-tab-title>li:after, .tab-title-selected {
+    background-image: url(../img/comm-spr.png);
+    background-size: 393px 200px;
+    background-repeat: no-repeat;
+}
+
+.btn-flashmen, .btn-play-1>a, .btn-play-1>i, .g-wrap-championlist .part-tab-title>li.selected:after, .g-wrap-championlist .part-tab-title>li:after, .g-wrap-championlist .part-tab-title>li:hover:after, .herf-type-0, .hotprogram-list-left, .hotprogram-list-right, .hover-border-1, .hover-border-2, .href-bg-0, .href-bg-1, .href-partner, .icon-666, .icon-666-on, .icon-bbs-1, .icon-fanart-1, .icon-gl-1, .icon-left-arrow, .icon-play-0, .icon-play-1, .icon-right-arrow, .icon-search, .icon-spzx-1, .icon-ss-1, .icon-sszx-1, .icon-xx, .icon-zsj, .index-spr, .inline-icon-0-left, .inline-icon-0-right, .inline-icon-1, .innerhover-border .hover-border-1, .innerhover-border .hover-border-2, .innerhover-bottom .p2>a.on>.icon-666, .innerhover-bottom .p2>a:hover>.icon-666, .m-champion-list-container .champion-item:hover .hover-icon:after, .m-new-champion-one .inner-hover>.border, .m-new-champion-one .inner-hover>.inner-hover-href, .more-hotprogram, .more-href-bg, .more-newchampion-info, ul .first-new, .news-first-bg, .tab-title-selected-1, .tab-title-selected-1-off, .week-free-a, .week-free-hover>.arrow, .wfc-href-bg {
+    background-image: url(../img/index-spr.png);
+    background-size: 638px 572px;
+    background-repeat: no-repeat;
+}
+
+
+
+.icon-666, .icon-ax, .icon-fhcx, .icon-kh, .icon-wjsq, .icon-wxbd, .icon-xgzd, .icon-yxzl, .icon-yz {
+    display: inline-block;
+    vertical-align: middle;
+    *zoom: 1;
+    *display: inline;
+    margin: -2px 4px 0 4px;
+}
+
+.ract, .ract em, .ract-box .collapse, .ract-box .expand, .collapse02 {
+    background-image: url(../img/ract_bg.png);
+    background-repeat: no-repeat;
+}
+
+.ract-box .expand {
+    display: block;
+    width: 105px;
+    height: 53px;
+    background-position: 0 -136px;
+    text-indent: -9000em;
+    outline: none;
+}
+
+.link-3 {
+    background-position: -303px 0px;
+    width: 276px;
+    height: 134px;
+}
+
+.link-4 {
+    background-position: 0px 0px;
+    width: 298px;
+    height: 267px;
+}
+
+.rn-rmhd i {
+    background-position: -243px -71px;
+    width: 20px;
+    height: 20px;
+}
+
+.rn-spzx i {
+    background-position: -338px -46px;
+    width: 18px;
+    height: 14px;
+}
+
+.rn-sszx i {
+    background-position: -291px -12px;
+    width: 22px;
+    height: 22px;
+}
+
+.rn-yxtj i {
+    background-position: -260px -96px;
+    width: 16px;
+    height: 18px;
+}
+
+.rn-fanart i {
+    background-position: -220px -46px;
+    width: 22px;
+    height: 19px;
+}
+
+.rn-polo i {
+    background-position: -193px -12px;
+    width: 33px;
+    height: 29px;
+}
+
+
+.events-spr, .link-1, .link-2, .link-3, .link-4, .match-smallarrow-left, .match-smallarrow-right, .event-type-1 .link-1 {
+    background-image: url(../img/events-spr.png);
+    background-size: 579px 427px;
+    background-repeat: no-repeat;
+}
+
+.more-arrow-1 {
+    background-position: -361px -46px;
+    width: 15px;
+    height: 9px;
+}
+/* ---------小箭头来回移动动画+多浏览器兼容-------- */
+
+
+
+.href-gouserhome:hover .more-arrow, .href-partner:hover .more-arrow, .herf-more:hover .more-arrow, .more-hotprogram:hover .more-arrow, .week-free-champion:hover .more-arrow-1{ 
+    -moz-animation: aroundAnimation .8s infinite linear both; 
+    -o-animation: aroundAnimation .8s infinite linear both; 
+    -webkit-animation: aroundAnimation .8s infinite linear both; 
+    animation: aroundAnimation .8s infinite linear both; 
+    transform-origin: center bottom; /*设置动画旋转元素的基点为*/
+    cursor: pointer;
+}
+
+.part-bottom-tab:hover .more-arrow{ 
+    -moz-animation: aroundAnimation .8s infinite linear both; 
+    -o-animation: aroundAnimation .8s infinite linear both; 
+    -webkit-animation: aroundAnimation .8s infinite linear both; 
+    animation: aroundAnimation .8s infinite linear both; 
+    transform-origin: center bottom; /*设置动画旋转元素的基点为*/
+    cursor: pointer;
+}
+
+.part-top-href:hover .more-arrow{ 
+    -moz-animation: aroundAnimation .8s infinite linear both; 
+    -o-animation: aroundAnimation .8s infinite linear both; 
+    -webkit-animation: aroundAnimation .8s infinite linear both; 
+    animation: aroundAnimation .8s infinite linear both; 
+    transform-origin: center bottom; /*设置动画旋转元素的基点为*/
+    cursor: pointer;
+}
+
+@keyframes aroundAnimation{
+    0% {
+        transition-timing-function: cubic-bezier(0.215,.61,.355,1); 
+        transform: translate3d(0,0,0);
+    }
+    20% {
+        transition-timing-function: cubic-bezier(0.215,.61,.355,1); 
+        transform: translate3d(5px,0,0);
+    }
+    40%{
+        transition-timing-function: cubic-bezier(0.755,0.050,0.855,0.060);
+        transform: translate3d(0px,0px,0);
+        }
+    80%{
+    transition-timing-function: cubic-bezier(0.755,0.050,0.855,0.060);
+    transform: translate3d(5px,0px,0);
+    }
+    100%{
+        transition-timing-function: cubic-bezier(0.215,.61,.355,1); 
+        transform: translate3d(0,0,0);
+        }
+  }
+
+  .p3:hover, .p4:hover{
+    border-radius: 9px;
+    box-shadow: 3px 3px 3px #eaeaea;
+  }
+
+  .p3:hover .icon-ax, .p3:hover .icon-fhcx, .p3:hover .icon-kh,  .p3:hover .icon-wxbd,.p3:hover  .icon-xgzd, .p3:hover .icon-yxzl, .p3:hover .icon-yz {
+      animation: scalling 1s 1;
+  }
+
+  .p4:hover .icon-xgzd, .p4:hover .icon-wjsq{
+    animation: scalling 1s 1;
+  }
+
+  @keyframes scalling{
+      0%,
+      100%,
+      10%{
+            transform: scale(1.2)
+      }
+
+    50%{
+        transform: scale(1.1)
+    }
+
+    70%,
+
+    90%{
+        transform: scale(1.1)
+    }
+  }
+
+
+  @keyframes jump{
+    0% {
+    transform: translate(0);
+}
+
+  10% {
+    transform: translateY(5px) scaleX(1.2) scaleY(.8);
+}
+
+  30% {
+    transform: translateY(-13px) scaleX(1) scaleY(1) rotateZ(5deg);
+}
+
+  50% {
+    transform: translateY(0) scale(1) rotateZ(0);
+}
+
+  55% {
+    transform: translateY(0) scaleX(1.1) scaleY(.9) rotateZ(0);
+}
+
+  70% {
+    transform: translateY(-4px) scaleX(1) scaleY(1) rotateZ(-2deg);
+}
+
+  80% {
+    transform: translateY(0) scaleX(1) scaleY(1) rotateZ(0);
+}
+  
+  85% {
+    transform: translateY(0) scaleX(1.05) scaleY(.95) rotateZ(0);
+}
+    100% {
+    transform: translateY(0) scaleX(1) scaleY(1);
+}
+}
+
+.rightnav-bar-li{list-style:none;width:66px;cursor:pointer;text-align:center;margin-bottom:6px}
+.rightnav-bar-li.selected span,.rightnav-bar-li:hover span{animation:jump ease 1.5s 1;-webkit-animation:jump ease 1.5s 1;}
+.rightnav-bar-li.selected a,.rightnav-bar-li:hover a{color:#309cac;font-weight:700}
+
+.rightnav-bar-li i{display:inline-block;vertical-align:middle;*zoom:1;*display:inline}
+.rightnav-bar-li a{color:#92a8ab;font-size:12px;text-align:center}
+.rn-rmhd.selected i,.rn-rmhd:hover i{background-position:-268px -71px;width:20px;height:20px}
+.rn-rmhd i{background-position:-243px -71px;width:20px;height:20px}
+.rn-spzx.selected i,.rn-spzx:hover i{background-position:-315px -46px;width:18px;height:14px}
+.rn-spzx i{background-position:-338px -46px;width:18px;height:14px}
+.rn-sszx.selected i,.rn-sszx:hover i{background-position:-193px -46px;width:22px;height:20px}
+.rn-sszx i{background-position:-291px -12px;width:22px;height:22px}
+.rn-yxtj.selected i,.rn-yxtj:hover i{background-position:-239px -96px;width:16px;height:18px}
+.rn-yxtj i{background-position:-260px -96px;width:16px;height:18px}
+.rn-fanart.selected i,.rn-fanart:hover i{background-position:-348px -12px;width:22px;height:19px}
+.rn-fanart i{background-position:-220px -46px;width:22px;height:19px;color: red;}
+.rn-polo{position:relative}
+.rn-polo.selected img,.rn-polo:hover img{display:block}
+.rn-polo i{background-position:-193px -12px;width:33px;height:29px}
+.rn-polo img{display:none;position:absolute;width:35px;top:1px;left:16px}
+/* ----------------- */
